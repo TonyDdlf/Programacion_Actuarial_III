@@ -1,0 +1,43 @@
+---
+title: "Calificaciones"
+author: "Luis Antonio Delgado De la Fuente"
+date: "6 de febrero de 2017"
+output: html_document
+---
+
+# Calificaciones por semestre
+
+###Primer Semestre
+  **Asignatura** | **Calificación**
+  --- | ---
+  Matemáticas básicas | 6
+  Problemas de Matemáticas básicas | 6
+  Programación Actuarial I | 6
+  Introducción a la Profesión Actuarial | 6
+  Conceptos de Cálculo | 8
+  DHPC | 8
+
+###Segundo Semestre
+  **Asignatura** | **Calificación**
+  --- | ---
+  Cálculo Diferencial | 5
+  Geometría Analítica | 5
+  Microeconomía | 5
+  Teoría de Interés I | 8
+  Programación Actuarial II | 9
+  Teoría de Ecuaciones | 8
+
+###Tercer Semestre
+  **Asignatura** | **Calificación**
+  --- | ---
+  Cálculo Diferencial | 9
+  Contabilidad General | 6
+  Algebra Lineal | 10
+  
+##Promedios
+  **Semestre** | **Calificación**
+  --- | ---
+  Primer Semestre | 6.66
+  Segundo Semestre | 8.33
+  Tercer Semestre | 8.33
+  **Promedio General** | **7.50**
